@@ -9,7 +9,6 @@
 	<packaging>jar</packaging>
 
 	<name>MovieApp</name>
-	<description>Spring Boot Rest</description>
 
 	<parent>
 		<groupId>org.springframework.boot</groupId>
